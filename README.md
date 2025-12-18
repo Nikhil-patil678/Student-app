@@ -147,5 +147,7 @@ bash
     
     http://<Student-app-SERVER-IP>:8080/
 
+![my images](./images/Screenshot%202025-12-18%20123153.png)
+
 This setup demonstrates a complete CI/CD pipeline for Java applications using Maven and Jenkins.
 ---
