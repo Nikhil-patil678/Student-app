@@ -147,15 +147,5 @@ bash
     
     http://<Student-app-SERVER-IP>:8080/
 
-![my images](./images/Screenshot%202025-12-18%20123153.png)
-
----
-
-## Summary 
-- Installed Java, Maven, Jenkins on Jenkins server
-- Installed Java, Tomcat10 on Student-App server
-- Created and configured Jenkins Pipeline with SSH credentials
-- Built and deployed a WAR file to Tomcat using Maven
-
 This setup demonstrates a complete CI/CD pipeline for Java applications using Maven and Jenkins.
 ---
